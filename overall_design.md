@@ -8,7 +8,7 @@
  #
 鉴于本系统的开发环境，所以测试时采用对应的测试环境,即在Windows操作系统下进行测试。
 #
-![image]（https://github.com/dingdi0353151510/lala/blob/master/image/environment.png）
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/environment.png)
 #
 在对本系统的功能进行测试时，采用黑盒测试方法。在对每个模块进行测试时，采用白盒测试法。模块测试时，要把测试重点放到以下五个方面：模块接口，局部数据结构，重要的执行通路，出错处理通路，边界条件。 
 #
@@ -18,17 +18,17 @@
 # 2 测试方案和预期的测试结果
 测试方案中包括测试时使用的输入数据（测试用例），还包括每组输入数据预定要检验的功能，以及每组输入数据预期应得到的正确输出。
 # 2.1
-![image]（https://github.com/dingdi0353151510/lala/blob/master/image/c1.png）
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/c1.png)
 # 2.2
-![image]（https://github.com/dingdi0353151510/lala/blob/master/image/c2.png）
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/c2.png)
 # 2.3
-![image]（https://github.com/dingdi0353151510/lala/blob/master/image/c3.png）
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/c3.png)
 # 2.4
-![image]（https://github.com/dingdi0353151510/lala/blob/master/image/c4.png）
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/c4.png)
 # 2.5
-![image]（https://github.com/dingdi0353151510/lala/blob/master/image/c5.png）
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/c5.png)
 # 2.6
-![image]（https://github.com/dingdi0353151510/lala/blob/master/image/c6.png）
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/c6.png）
 
  
 
@@ -37,4 +37,4 @@
 
 # 3 测试进度计划
 #
-![image]（https://github.com/dingdi0353151510/lala/blob/master/image/t1.png）
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/t1.png）
