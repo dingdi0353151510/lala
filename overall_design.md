@@ -28,7 +28,7 @@
 # 2.5
 ![image](https://github.com/dingdi0353151510/lala/blob/master/image/c5.png)
 # 2.6
-![image](https://github.com/dingdi0353151510/lala/blob/master/image/c6.png）
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/c6.png)
 
  
 
@@ -37,4 +37,4 @@
 
 # 3 测试进度计划
 #
-![image](https://github.com/dingdi0353151510/lala/blob/master/image/t1.png）
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/t1.png)
