@@ -29,7 +29,10 @@
 ![image](https://github.com/dingdi0353151510/lala/blob/master/image/c5.png)
 # 2.6
 ![image](https://github.com/dingdi0353151510/lala/blob/master/image/c6.png)
-
+# 2.7
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/c7.png)
+# 2.8
+![image](https://github.com/dingdi0353151510/lala/blob/master/image/c8.png)
  
 
 
